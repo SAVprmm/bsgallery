@@ -86,15 +86,6 @@ To execute demo on local Windows:
     ```
 
 2. home page is viewer of gallery
-
-   ```
-   # run all available tests
-   vendor/bin/codecept run
-
-   # run acceptance tests
-   vendor/bin/codecept run acceptance
-
-   # run only unit and functional tests
-   vendor/bin/codecept run unit,functional
-   ```
+    <a href="https://github.com/SAVprmm/bsgallery/blob/main/tests/screenshots/1.home_page-viewer.jpg" target="_new">demo screenshot</a>
+   
 
