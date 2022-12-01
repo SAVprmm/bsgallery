@@ -84,8 +84,20 @@ To execute demo on local Windows:
     ```
     yii.bat serve
     ```
+    
+### Demonstration of the result
 
-2. home page is viewer of gallery
-    <a href="https://github.com/SAVprmm/bsgallery/blob/main/tests/screenshots/1.home_page-viewer.jpg" target="_new">demo screenshot</a>
-   
+1. Home page is viewer of gallery
+    <a href="https://github.com/SAVprmm/bsgallery/blob/main/tests/screenshots/1.home_page-viewer.jpg" target="_new">demo screenshot 1</a>
 
+2. After successed added 5 images of different format
+    <a href="https://github.com/SAVprmm/bsgallery/blob/main/tests/screenshots/2.add_5_image_with_success.jpg" target="_new">demo screenshot 2</a>
+
+3. How displaying error of uploading 
+    <a href="https://github.com/SAVprmm/bsgallery/blob/main/tests/screenshots/3.add-_with_error_due_wrong_file_type.jpg" target="_new">demo screenshot 3</a>
+
+4. See 5 images sort by "Original Create Date". One of it have original cyrillic name.
+    <a href="https://github.com/SAVprmm/bsgallery/blob/main/tests/screenshots/4.added_one_image_name_was_translited.jpg" target="_new">demo screenshot 4</a>
+
+5. See images with the same original name. On right images preview clickable. Pagination on down of page.
+    <a href="https://github.com/SAVprmm/bsgallery/blob/main/tests/screenshots/5.on_viewer_image_with_same_name-pagination-sotring.jpg" target="_new">demo screenshot 5</a>
